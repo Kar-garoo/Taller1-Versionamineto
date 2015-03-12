@@ -1,7 +1,7 @@
 public class User  {
-String name;
-String lastname;
-int age;
-String username;
-String password;
+private String name;
+private String lastname;
+private int age;
+private String username;
+private String password;
 }
